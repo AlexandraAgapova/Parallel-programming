@@ -31,3 +31,9 @@ cmake -DUSE_DOUBLE=ON ..
 make
 ./sin_array_double
 
+### Вывод программы
+# Для double
+-6.21725e-07
+# Для float
+-0.212206
+
